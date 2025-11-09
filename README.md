@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - Development of dApps on Ethereum
 - Smart contracts in Solidity
 - Decentralized infrastructure and DAOs
+
 🥅 Goal in Web3: To become an active contributor in DeFi and/or DApp projects.
 🗒⛓️😁
 <!--
